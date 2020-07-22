@@ -6,12 +6,12 @@
 	<display-name>Chetan Mevada DevOps Expert</display-name>
 
 	<servlet>
-		<servlet-name>WorksWithHerokuServlet</servlet-name>
-		<servlet-class>works.buddy.samples.WorksWithHerokuServlet</servlet-class>
+		<servlet-name>WorksWithChetanServlet</servlet-name>
+		<servlet-class>works.buddy.samples.WorksWithChetanServlet</servlet-class>
 	</servlet>
 
 	<servlet-mapping>
-		<servlet-name>WorksWithHerokuServlet</servlet-name>
+		<servlet-name>WorksWithChetanServlet</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
